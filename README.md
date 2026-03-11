@@ -1,3 +1,3 @@
 # IngenieriaDatos
-##Resumen Antonio Hurtado##
+##Resumen Antonio Hurtado
 
